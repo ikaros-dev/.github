@@ -7,7 +7,7 @@ ACGMN全拼是：Anime(动画) + Comic(漫画) + GalGame(游戏) + Music(音乐)
 
 # 相关社群
 PS: 暂时只有 TG群组，后续会有官网、社区、官网文档等等
-- Telegram群组：https://t.me/ProjectIkaros
+- Telegram群组：https://t.me/run_ikaros
 
 # 主要仓库
 - [ikaros](https://github.com/ikaros-dev/ikaros): 基于Java的服务端
