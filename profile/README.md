@@ -10,5 +10,5 @@ PS: 暂时只有 TG群组，后续会有官网、社区、官网文档等等
 - Telegram群组：https://t.me/ProjectIkaros
 
 # 主要仓库
-- ikaros: 基于Java的服务端
-- ikaros-admin: 基于Vue的Web管理端
+- [ikaros](https://github.com/ikaros-dev/ikaros): 基于Java的服务端
+- [ikaros-admin](https://github.com/ikaros-dev/ikaros-admin): 基于Vue的Web管理端
