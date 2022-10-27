@@ -14,4 +14,7 @@ PS: 暂时只有 TG群组，后续会有官网、社区、官网文档等等
 - [ikaros-admin](https://github.com/ikaros-dev/ikaros-admin): 基于Vue的Web管理端
 
 # 问题追踪
-https://github.com/ikaros-dev/ikaros/issues
+[Ikaros Issues](https://github.com/ikaros-dev/ikaros/issues)
+
+# 论坛
+[Ikaros Discussions](https://github.com/orgs/ikaros-dev/discussions)
