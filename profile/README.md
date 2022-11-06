@@ -18,6 +18,7 @@ PS: 暂时只有 TG群组，后续会有官网、社区、官网文档等等
 
 # 项目进度
 Project: https://github.com/orgs/ikaros-dev/projects
+Open Issue: https://github.com/orgs/ikaros-dev/projects/4/views/8
 
 # 论坛
 [Ikaros Discussions](https://github.com/orgs/ikaros-dev/discussions)
