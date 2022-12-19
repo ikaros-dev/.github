@@ -63,5 +63,5 @@ Project: https://github.com/orgs/ikaros-dev/projects
 
 Open Issue: https://github.com/orgs/ikaros-dev/projects/4/views/8
 
-## 更多信息
+# 更多信息
 请移步：[Ikaros project github offical main repo](https://github.com/ikaros-dev/ikaros)
