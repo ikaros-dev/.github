@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="#" target="_blank">
-        <img width="100" src="assets/logo.png" alt="Ikaros logo" />
+        <img width="100" src="https://github.com/ikaros-dev/ikaros/blob/master/assets/logo.png" alt="Ikaros logo" />
     </a>
 </p>
 
