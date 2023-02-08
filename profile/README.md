@@ -38,8 +38,6 @@ PS: 暂时只有下方这些，后续会有官网、社区、官网文档等等
 
 - GitHub: [Ikaros project github offical main repo](https://github.com/ikaros-dev/ikaros)
 - 微信公众号：见下方[微信公众号](#微信公众号)
-- QQ群：749098345 名称是：Ikaros开源
-- 哔哩哔哩：https://space.bilibili.com/118744944/dynamic
 - TG群组：https://t.me/run_ikaros
 - TG频道：https://t.me/run_ikaros_channel
 - 论坛：[Ikaros GitHub Discussions](https://github.com/orgs/ikaros-dev/discussions)
@@ -58,7 +56,7 @@ TG群组和频道，很多不方便的朋友没法及时收到通知，我们创
 # 主要仓库
 
 - [ikaros](https://github.com/ikaros-dev/ikaros): 基于Java的服务端
-- [ikaros-admin](https://github.com/ikaros-dev/ikaros-admin): 基于Vue的Web管理端
+- [ikaros console](https://github.com/ikaros-dev/console): 基于Vue的Web管理端
 - [ikaros_app](https://github.com/ikaros-dev/ikaros_app): 基于Flutter的移动端
 - [ikaros rfcs](https://github.com/ikaros-dev/rfcs): Ikaros 功能设计RFC文档库
 
