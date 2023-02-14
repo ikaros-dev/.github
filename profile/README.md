@@ -58,7 +58,7 @@ TG群组和频道，很多不方便的朋友没法及时收到通知，我们创
 - [ikaros](https://github.com/ikaros-dev/ikaros): 基于Java的服务端
 - [console](https://github.com/ikaros-dev/console): 基于Vue的Web管理端
 - [app](https://github.com/ikaros-dev/ikaros_app): 基于Flutter的移动端
-- [rfcs](https://github.com/ikaros-dev/rfcs): Ikaros 功能设计RFC文档
+- [rfcs](https://github.com/ikaros-dev/rfcs): 功能设计RFC文档
 
 # 项目进度
 
