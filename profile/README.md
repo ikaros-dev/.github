@@ -1,7 +1,3 @@
-# 组织介绍
-这里是ACGMN开源媒体管理项目Ikaros的开发者组织，欢迎您的贡献和加入。
-# 介绍
-
 <p align="center">
     <a href="#" target="_blank">
         <img width="100" src="https://github.com/ikaros-dev/ikaros/blob/master/assets/logo.png" alt="Ikaros logo" />
@@ -32,7 +28,7 @@ Ikaros 使用 AGPL-v3.0 协议开源，请遵守开源协议。
 Ikaros的作用是为了辅助**个人**对本地资源进行管理，类似于是C/S架构的文件管理器。
 
 
-# 官方社区
+# 社区
 - TG群组：https://t.me/run_ikaros
 - TG频道：https://t.me/run_ikaros_channel
 - 论坛：[Ikaros github discussions](https://github.com/orgs/ikaros-dev/discussions)
@@ -44,5 +40,5 @@ Ikaros的作用是为了辅助**个人**对本地资源进行管理，类似于�
 - 项目中用到的所有开源项目
 - 参考的所有开源项目
 
-# 更多信息
+# 更多
 请移步：[Ikaros project github offical main repo](https://github.com/ikaros-dev/ikaros)
