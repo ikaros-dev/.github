@@ -33,37 +33,10 @@ Ikaros的作用是为了辅助**个人**对本地资源进行管理，类似于�
 
 
 # 官方社区
-
-PS: 暂时只有下方这些，后续会有官网、社区、官网文档等等
-
-- GitHub: [Ikaros project github offical main repo](https://github.com/ikaros-dev/ikaros)
-- 微信公众号：见下方[微信公众号](#微信公众号)
 - TG群组：https://t.me/run_ikaros
 - TG频道：https://t.me/run_ikaros_channel
 - 论坛：[Ikaros github discussions](https://github.com/orgs/ikaros-dev/discussions)
 - 问题追踪：[Ikaros issues](https://github.com/ikaros-dev/ikaros/issues)
-
-# 微信公众号
-
-TG群组和频道，很多不方便的朋友没法及时收到通知，我们创建了一个微信公众号，欢迎感兴趣的朋友进行订阅
-
-- 直接扫描下方的二维码
-- 微信=>添加朋友=>微信公众号 搜索 `run_ikaros_wx`
-- 搜索 `Ikaros开源` 选择公众号一栏
-
-![image](https://user-images.githubusercontent.com/46225881/205643915-e41b46a3-b094-4e50-8458-9417139add7a.png)
-
-# 主要仓库
-
-- [ikaros](https://github.com/ikaros-dev/ikaros): 基于Java的服务端
-- [app](https://github.com/ikaros-dev/ikaros_app): 基于Flutter的移动端
-- [rfcs](https://github.com/ikaros-dev/rfcs): 功能设计RFC文档
-
-# 项目进度
-
-Project: https://github.com/orgs/ikaros-dev/projects
-
-Open Issue: https://github.com/orgs/ikaros-dev/projects/4/views/8
 
 # 感谢
 
