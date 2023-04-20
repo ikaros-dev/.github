@@ -32,7 +32,7 @@ Ikaros 使用 AGPL-v3.0 协议开源，请遵守开源协议。
 Ikaros的作用是为了辅助**个人**对本地资源进行管理，类似于是C/S架构的文件管理器。
 
 
-# 官方平台汇总
+# 官方社区
 
 PS: 暂时只有下方这些，后续会有官网、社区、官网文档等等
 
@@ -56,7 +56,6 @@ TG群组和频道，很多不方便的朋友没法及时收到通知，我们创
 # 主要仓库
 
 - [ikaros](https://github.com/ikaros-dev/ikaros): 基于Java的服务端
-- [console](https://github.com/ikaros-dev/console): 基于Vue的Web管理端
 - [app](https://github.com/ikaros-dev/ikaros_app): 基于Flutter的移动端
 - [rfcs](https://github.com/ikaros-dev/rfcs): 功能设计RFC文档
 
