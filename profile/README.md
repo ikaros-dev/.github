@@ -41,4 +41,4 @@ Ikaros的作用是为了辅助**个人**对本地资源进行管理，类似于�
 - 参考的所有开源项目
 
 # 更多
-请移步：[Ikaros project github offical main repo](https://github.com/ikaros-dev/ikaros)
+请移步：<https://ikaros.run/>
