@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#" target="_blank">
-        <img width="100" src="assets/logo.png" alt="Ikaros logo" />
+        <img width="100" src="https://ikaros.run/logo.png" alt="Ikaros logo" />
     </a>
 </p>
 
