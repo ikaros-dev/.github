@@ -91,5 +91,3 @@ Open Issue: https://github.com/orgs/ikaros-dev/projects/4/views/8
 - 参考的所有开源项目
 
 
-# 更多
-请移步：<https://ikaros.run/>
